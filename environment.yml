@@ -280,4 +280,3 @@ dependencies:
     - tensorflow-estimator==2.7.0
     - tensorflow-macos==2.7.0
     - tensorflow-metal==0.3.0
-prefix: /Users/giuseppegiannotti/miniforge3/envs/DLC
