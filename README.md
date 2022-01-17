@@ -1,4 +1,4 @@
-# Deeplabcut_mac_M1
+# Deeplabcut_mac_M1_conda_env
 Mac M1 conda environment to run natively Deeplabcut with TF metal including GUI
 
 Instructions:
